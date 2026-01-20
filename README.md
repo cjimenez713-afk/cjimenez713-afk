@@ -10,6 +10,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## 🚨 Threat Hunting and Security Operations
 
+- **[Threat Hunting Scenario (CorpHealth)](https://github.com/cjimenez713-afk/Threat-Hunt-CorpHealth/)**
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/cjimenez713-afk/threat-hunting-tor/)**
 
 <hr/>
